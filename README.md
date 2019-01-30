@@ -1,3 +1,13 @@
+# Songs App
+
+This app displays a list of songs and provides more information
+about a selected/clicked song. The project explores the basics
+of Redux state management. It is part of Udemy's
+[Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/content)
+course taught by Stephen Grider.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
